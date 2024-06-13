@@ -1,4 +1,4 @@
-## Opa! É um prazer me apresentar, meu nome é Leticia!🌟
+## Opa! Prazer, Leticia!🌟
 
 ⭐ Cursando Análise e Desenvolvimento de Sistemas (por amor, lógico hihi)
 
@@ -9,11 +9,11 @@
 ⭐ Planejo viajar e ajudar pessoas pelo mundo com o conhecimento que tenho, então não pretendo parar de estudar 👻
 
 <div style="display:inline_block"><br>
-  <img align="center" alt="java" height="45" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg"/>
-  <img align="center" alt="java" height="45" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
-  <img align="center" alt="java" height="45" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-  <img align="center" alt="java" height="45" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-  <img align="center" alt="java" height="45" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>
+  <img align="center" alt="java" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg"/>
+  <img align="center" alt="java" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
+  <img align="center" alt="java" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+  <img align="center" alt="java" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+  <img align="center" alt="java" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>
 </div>
 
 ##
