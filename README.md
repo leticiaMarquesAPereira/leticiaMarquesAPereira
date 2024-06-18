@@ -4,7 +4,7 @@
 
 ⭐ Atualmente estudando Java Orientado a Objetos ☕
 
-⭐ Tenho grande vontade de representar e me destacar em grandes empresas de tecnologia, dando ao meu nome importância enquanto me dedico à corporação. 
+⭐ Tenho grande vontade de representar e me destacar em grandes empresas de tecnologia.
 
 ⭐ Planejo viajar e ajudar pessoas pelo mundo com o conhecimento que tenho, então não pretendo parar de estudar 👻
 
