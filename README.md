@@ -2,9 +2,9 @@
 
 ⭐ Cursando Análise e Desenvolvimento de Sistemas (por amor, lógico hihi)
 
-⭐ Atualmente estudando Java Orientado a Objetos ☕
+⭐ Atualmente estudando Java Orientado a Objetos e Desenvolvimento na Unity ☕
 
-⭐ Tenho grande vontade de representar e me destacar em grandes empresas de tecnologia.
+⭐ Tenho grande vontade de representar e me destacar em grandes empresas.
 
 ⭐ Planejo viajar e ajudar pessoas pelo mundo com o conhecimento que tenho, então não pretendo parar de estudar 👻
 
